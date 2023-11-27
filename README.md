@@ -16,4 +16,4 @@
 
 ## - THE PROTOTYPE:
 ![RC1](https://github.com/DinaHamdyElkady/Mines-Detector-RC/blob/main/RC1.jpg?raw=true)
-
+![RC2](https://github.com/DinaHamdyElkady/Mines-Detector-RC/blob/main/RC2.jpg?raw=true)
