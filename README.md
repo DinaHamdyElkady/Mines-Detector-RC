@@ -15,4 +15,5 @@
 6. Li–ion Battery (3.7V, 2400mAh)
 
 ## - THE PROTOTYPE:
+![RC1](https://github.com/DinaHamdyElkady/Mines-Detector-RC/blob/main/RC1.jpg?raw=true)
 
