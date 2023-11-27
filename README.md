@@ -15,4 +15,5 @@
 6. Li–ion Battery (3.7V, 2400mAh)
 
 ## - THE PROTOTYPE:
-!(https://imgur.com/9I8OfRV)
+![https://imgur.com/9I8OfRV](https://imgur.com/a/2VqXJLk)
+
