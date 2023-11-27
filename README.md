@@ -8,12 +8,12 @@
 
 ## - HARDWARE COMPONENTS:
 
-1. ATMEGA32 microcontroller
-2. Metal Detector MDS-60
-3. Ultrasonic Sensor HC–04 
-4. DC Motors
-5. L298N DC Motor Driver H–Bridge  
-6. Li–ion Battery (3.7V, 2400mAh)
+1.  ATMEGA32 microcontroller
+2.  Metal Detector MDS-60
+3.  Ultrasonic Sensor HC–04 
+4.  DC Motors
+5.  L298N DC Motor Driver H–Bridge  
+6.  Li–ion Battery (3.7V, 2400mAh)
 
 ## - THE PROTOTYPE:
 ![RC1](https://github.com/DinaHamdyElkady/Mines-Detector-RC/blob/main/RC1.jpg?raw=true)
