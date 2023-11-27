@@ -1,10 +1,10 @@
 # Mines-Detector-RC
 
-1. It’s a free – track robot that has the following features: obstacle avoidance via ultrasonic sensor, metal detecting via a metal detector sensor (MDS-60).
+- It’s a free – track robot that has the following features: obstacle avoidance via ultrasonic sensor, metal detecting via a metal detector sensor (MDS-60).
 
-2. If it’s metal, the buzzer will ring, the robot will stop moving.
+* If it’s metal, the buzzer will ring, the robot will stop moving.
 
-3. In case of obstacle detected, the robot will rotate to the right until the path is clear.
++ In case of obstacle detected, the robot will rotate to the right until the path is clear.
 
 ## - HARDWARE COMPONENTS:
 
