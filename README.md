@@ -15,5 +15,3 @@
 6. Li–ion Battery (3.7V, 2400mAh)
 
 ## - THE PROTOTYPE:
-![Uploading WhatsApp Image 2023-11-16 at 00.32.27_56b708d4.jpg…]()
-![Uploading WhatsApp Image 2023-11-16 at 00.32.29_afb8c316.jpg…]()
