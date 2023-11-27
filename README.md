@@ -1,5 +1,5 @@
 # Mines-Detector-RC
-## - ABOUT THE PROJECT:
+
 1. It’s a free – track robot that has the following features: obstacle avoidance via ultrasonic sensor, metal detecting via a metal detector sensor (MDS-60).
 
 2. If it’s metal, the buzzer will ring, the robot will stop moving.
@@ -7,6 +7,7 @@
 3. In case of obstacle detected, the robot will rotate to the right until the path is clear.
 
 ## - HARDWARE COMPONENTS:
+
 1. ATMEGA32 microcontroller
 2. Metal Detector MDS-60
 3. Ultrasonic Sensor HC–04 
